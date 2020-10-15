@@ -1,0 +1,15 @@
+C:\Users\rbban\source\repos\NDAS\bin\Debug\NDAS.exe.config
+C:\Users\rbban\source\repos\NDAS\bin\Debug\NDAS.exe
+C:\Users\rbban\source\repos\NDAS\bin\Debug\NDAS.pdb
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.csprojAssemblyReference.cache
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.FormLogin.resources
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.Properties.Resources.resources
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.csproj.GenerateResource.cache
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.csproj.CoreCompileInputs.cache
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.exe
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.pdb
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.FormAppointmentList.resources
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.PatientForm.resources
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.UserTypeSelect.resources
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.DoctorForm.resources
+C:\Users\rbban\source\repos\NDAS\obj\Debug\NDAS.FormDoctorList.resources
